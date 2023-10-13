@@ -1,6 +1,6 @@
 # Scrape and Export To Google Sheet Project
 
-This is a web scraper that scrapes the site foreclosure.com and than writes the scraped data to a google sheets using the google-api.
+Description: This project involves web scraping data from foreclosure.com and then exporting the scraped data to Google Sheets using the Google API.
 
 **Time to Complete: 4 hours**
 
