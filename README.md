@@ -4,7 +4,7 @@ Description: This project involves web scraping data from foreclosure.com and th
 
 **Time to Complete: 4 hours**
 
-Tech Stack:
+**Tech Stack**:
 
     Python
     Selenium
