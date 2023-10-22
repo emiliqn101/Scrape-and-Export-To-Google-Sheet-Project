@@ -18,8 +18,6 @@ from PIL import Image
 from io import BytesIO
 import os
 import requests
-import shutil
-import pyautogui
 import time
 from selenium.webdriver.common.keys import Keys
 import subprocess
